@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "root",
+      "password": null,
+      "database": "escrime",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "bastienoc20",
+      "password": ":Sebast1en13;",
+      "database": "clescrimeaubagne",
+      "host": "www.db4free.net",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": null,
+      "database": "database_production",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  }
